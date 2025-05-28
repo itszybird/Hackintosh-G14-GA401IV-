@@ -1,5 +1,5 @@
 # Hackintosh-G14-GA401IV-
-Grade 12 Inquriy Project
+Grade 12 Inquiry Project<br>
 MacOS 14.7.5 success with the G14 2020 Model (I call it the *ROG Zephyrus i14*)<br>
 Laptop Model: **[Link](https://rog.asus.com/laptops/rog-zephyrus/rog-zephyrus-g14-series/)**
 # Important
